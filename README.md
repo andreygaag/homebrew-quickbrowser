@@ -1,4 +1,4 @@
-# Andreygaag Quickbrowser
+# Quickbrowser formulae
 
 ## How do I install these formulae?
 
